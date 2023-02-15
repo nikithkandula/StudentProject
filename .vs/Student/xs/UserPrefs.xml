@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{FC5849FF-EA19-4045-9982-D68B16D87828}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Student PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nikithreddykandula/Projects/Student/Student/DAL/SwaggeerOptions.cs" relfile="Student/DAL/SwaggeerOptions.cs" line="30" column="1" />
+      <Breakpoint file="/Users/nikithreddykandula/Projects/Student/Student/DAL/SwaggeerOptions.cs" relfile="Student/DAL/SwaggeerOptions.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Student/Properties/launchSettings.json">
+    <Files>
+      <File FileName="Student/Controllers/StudentController.cs" Line="16" Column="10" IsPinned="True" />
+      <File FileName="Student/Startup.cs" Line="58" Column="16" IsPinned="True" />
+      <File FileName="Student/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Student/Program.cs" Line="16" Column="1" />
+      <File FileName="Student/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="Student/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="Student/Models/StudentInfo.cs" Line="1" Column="1" />
+      <File FileName="Student/Properties/launchSettings.json" Line="22" Column="2" />
+      <File FileName="Student/Student.csproj" />
+      <File FileName="Student/DAL/DataAccess.cs" />
+      <File FileName="Student/appsettings.json" Line="1" Column="1" />
+      <File FileName="Student/Models/AddStudentResponse.cs" />
+      <File FileName="Student/DAL/SwaggeerOptions.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Student" expanded="True">
+            <Node name="Student" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
